@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-adaptivecards-dashboard-client-side-solution",
+    "id": "9b5c4a1e-8fe7-40f8-911c-863e49ad308e",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "react-adaptivecards-dashboard description"
+      },
+      "longDescription": {
+        "default": "react-adaptivecards-dashboard description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "react-adaptivecards-dashboard Feature",
+        "description": "The feature that activates elements of the react-adaptivecards-dashboard solution.",
+        "id": "ada6e544-e5b7-4ed9-af5b-e5d424cdb387",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/react-adaptivecards-dashboard.sppkg"
+  }
+}

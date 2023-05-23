@@ -1,0 +1,23 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "2a63ce72-102e-41f0-ac5e-82db73824d3b",
+  "alias": "DashboardWebPart",
+  "componentType": "WebPart",
+  "version": "*",
+  "manifestVersion": 2,
+  "requiresCustomScript": false,
+  "supportedHosts": ["SharePointWebPart", "TeamsTab"],
+  "supportsThemeVariants": true,
+  "supportsFullBleed": true,
+
+  "preconfiguredEntries": [{
+    "groupId": "5c03119e-3074-46fd-976b-c60198311f70",
+    "group": { "default": "Advanced" },
+    "title": { "default": "Dashboard" },
+    "description": { "default": "Dashboard" },
+    "officeFabricIconFontName": "ViewDashboard",
+    "properties": {
+      "description": "Dashboard"
+    }
+  }]
+}
