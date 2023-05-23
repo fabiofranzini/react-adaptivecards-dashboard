@@ -58,7 +58,7 @@ export default class DashboardWebPart extends BaseClientSideWebPart<IDashboardWe
       pages: [
         {
           header: {
-            description: strings.PropertyPaneDescription
+            description: null
           },
           groups: [
             {
